@@ -1,0 +1,48 @@
+name: doctor_appointment_ui
+description: A new Flutter application.
+
+# يمنع نشر الحزمة على pub.dev
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.19.0
+  cupertino_icons: ^1.0.5
+  provider: ^6.0.5
+  shared_preferences: ^2.5.3
+  flutter_rating_bar: ^4.0.1
+  table_calendar: ^3.1.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  generate: true
+
+  assets:
+    - assets/dr_1.png
+    - assets/dr_2.png
+    - assets/dr_3.png
+    - assets/heart.png
+    - assets/eye.png
+    - assets/logo-512.png
+    - assets/checkup.png
+    - assets/eye-exam.png
+    - assets/listening.png
+    - assets/optometrist.png
+    - assets/hearing-exam.png
+    - assets/medical-team.png
+    - assets/hospital.png
+    - assets/l10n/

@@ -1,0 +1,19 @@
+{
+"app_title": "Al-Hikma Specialized Hospital",
+"welcome": "Welcome",
+"hospital_name": "Al-Hikma Specialized Hospital App",
+"account_info": "Account Information",
+"name": "Name",
+"email": "Email",
+"age": "Age",
+"gender": "Gender",
+"edit_profile": "Edit Profile",
+"change_language": "Change Language",
+"logout": "Logout",
+"search_hint": "Search...",
+"specialities": "Specialities",
+"see_all": "See all",
+"top_rated_doctors": "Top Rated Doctors",
+"book_now": "Book Now",
+"add_review": "Add Review"
+}

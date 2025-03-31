@@ -1,0 +1,19 @@
+{
+"app_title": "مشفى الحكمة التخصصي",
+"welcome": "أهلاً بك",
+"hospital_name": "تطبيق مشفى الحكمة التخصصي",
+"account_info": "معلومات الحساب",
+"name": "الاسم",
+"email": "البريد الإلكتروني",
+"age": "العمر",
+"gender": "الجنس",
+"edit_profile": "تعديل الملف الشخصي",
+"change_language": "تغيير اللغة",
+"logout": "تسجيل الخروج",
+"search_hint": "بحث...",
+"specialities": "الاختصاصات",
+"see_all": "عرض الكل",
+"top_rated_doctors": "الأطباء الأعلى تقييماً",
+"book_now": "احجز الآن",
+"add_review": "إضافة تقييم"
+}
